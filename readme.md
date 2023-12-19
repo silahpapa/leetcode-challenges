@@ -14,7 +14,7 @@ Each day's work will be stored in a separate folder named with the format `DayXX
 
 | Day | Date | Problem | Solution |
 | --- | ---- | ----- | -------- |
-| 1   | 19th December 2023 | [https://leetcode.com/problems/two-sum/](#) | [](#) |
+| 1   | 19th December 2023 | [https://leetcode.com/problems/two-sum/](#) | [https://github.com/silahpapa/leetcode-challenges/blob/main/day-1/index.php](#) |
 | 2   | 20th December 2023 | [Problem Link](#) | [Solution Link](#) |
 ## Conclusion
 
