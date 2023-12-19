@@ -8,7 +8,7 @@ The main goal of this challenge is to improve my problem-solving skills by solvi
 
 ## Structure
 
-Each day's work will be stored in a separate branch named day (date) 
+Each day's work will be stored in a separate folder named with the format `DayXXX` where `XXX` is the day number. Each folder will contain the problem statement, my solution, and a brief explanation of the solution.
 
 ## Progress
 
