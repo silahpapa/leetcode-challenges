@@ -12,11 +12,20 @@ Each day's work will be stored in a separate folder named with the format `DayXX
 
 ## Progress
 
-| Day | Date               | Problem                                     | Solution                                                                        |
-|-----|--------------------|---------------------------------------------|---------------------------------------------------------------------------------|
+| Day | Date               | Problem                                 | Solution                                                               |
+|-----|--------------------|-----------------------------------------|------------------------------------------------------------------------|
 | 1   | 19th December 2023 | [https://leetcode.com/problems/two-sum/](#) | [https://github.com/silahpapa/leetcode-challenges/blob/main/day-1/index.php](#) |
-| 2   | 20th December 2023 | [https://leetcode.com/problems/sqrtx/description/](#)                           | [https://github.com/silahpapa/leetcode-challenges/blob/main/day-2/index.php](#)                                                              |
-| 3   | 21th December 2023 | [Problem Link](#)                           | [Solution Link](#)                                                              |
+| 2   | 20th December 2023 | [https://leetcode.com/problems/sqrtx/description/](#)                       | [https://github.com/silahpapa/leetcode-challenges/blob/main/day-2/index.php](#)                                                     |
+| 3   | 21th December 2023 | [Problem Link](#)                       | [Solution Link](#)                                                     |
+| 4   | 22th December 2023 | [Problem Link](#)                       | [Solution Link](#)                                                     |
+| 4   | 23th December 2023 | [Problem Link](#)                       | [Solution Link](#)                                                     |
+| 5   | 24th December 2023 | [Problem Link](#)                       | [Solution Link](#)                                                     |
+| 6   | 25th December 2023 | [Problem Link](#)                       | [Solution Link](#)                                                     |
+| 7   | 26th December 2023 | [Problem Link](#)                       | [Solution Link](#)                                                     |
+| 8   | 27th December 2023 | [Problem Link](#)                       | [Solution Link](#)                                                     |
+| 9   | 28th December 2023 | [Problem Link](#)                       | [Solution Link](#)                                                     |
+| 10  | 29th December 2023 | [Problem Link](#)                       | [Solution Link](#)                                                     |
+| 11  | 30th December 2023 | [ https://leetcode.com/problems/reverse-integer/](#)                           | [https://github.com/silahpapa/leetcode-challenges/tree/main/week2/day-5](#)                                                              |
 ## Conclusion
 
 At the end of this challenge, I hope to have significantly improved my problem-solving skills and become more proficient in algorithmic thinking.
