@@ -1,4 +1,4 @@
-9. Palindrome Number
+Palindrome Number
    Solved
    Easy
    Topics
