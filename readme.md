@@ -30,5 +30,3 @@ Each day's work will be stored in a separate folder named with the format `DayXX
 ## Conclusion
 
 At the end of this challenge, I hope to have significantly improved my problem-solving skills and become more proficient in algorithmic thinking.
-
-Stay tuned for daily updates!
