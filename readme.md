@@ -12,8 +12,8 @@ Each day's work will be stored in a separate folder named with the format `DayXX
 
 ## Progress
 
-| Day | Date               | Problem                                                                                              | Solution                                               |
-|-----|--------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
+| Day | Date               | Problem                                                                                              | Solution                                              |
+|-----|--------------------|------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
 | 1   | 19th December 2023 | [https://leetcode.com/problems/two-sum/](#)                                                          | [https://github.com/silahpapa/leetcode-challenges/blob/main/day-1/index.php](#) |
 | 2   | 20th December 2023 | [https://leetcode.com/problems/sqrtx/description/](#)                                                | [https://github.com/silahpapa/leetcode-challenges/blob/main/day-2/index.php](#) |
 | 3   | 21th December 2023 | [https://leetcode.com/problems/buy-two-chocolates/](#)                                               | [https://github.com/silahpapa/leetcode-challenges/tree/main/week1/day-3](#) |
@@ -26,12 +26,12 @@ Each day's work will be stored in a separate folder named with the format `DayXX
 | 10  | 28th December 2023 | [https://leetcode.com/problems/restore-ip-addresses/](#)                                             | [https://github.com/silahpapa/leetcode-challenges/tree/main/week2/day-3](#) |
 | 11  | 29th December 2023 | [https://leetcode.com/problems/burst-balloons/description/](#)                                       | [https://github.com/silahpapa/leetcode-challenges/tree/main/week2/day-4](#) |
 | 12  | 30th December 2023 | [https://leetcode.com/problems/reverse-integer/](#)                                                  | [https://github.com/silahpapa/leetcode-challenges/tree/main/week2/day-5](#) |
-| 13  | 31th December 2023 | [problem link](#)                                                                                    | [solution link](#)                                     |
-| 14  | 1th Jan 2024       | [https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/](#)                                                                                            | [https://github.com/silahpapa/leetcode-challenges/tree/main/week2/day-6](#)                                              |
-| 15  | 2th Jan 2024       | [https://leetcode.com/problems/climbing-stairs/](#)                                                                                            | [https://github.com/silahpapa/leetcode-challenges/tree/main/week2/day-7](#)                                              |
-| 16  | 3th Jan 2024       | [https://leetcode.com/problems/longest-palindromic-subsequence/submissions/1135404626/](#)           | [ https://github.com/silahpapa/leetcode-challenges/tree/main/week3/day-1](#)                                         |
-| 17  | 4th Jan 2024       | [https://leetcode.com/problems/plus-one/](#)              | [https://github.com/silahpapa/leetcode-challenges/tree/main/week3/day-3](#)                                          |
-| 18  | 5th Jan 2024       | [https://leetcode.com/problems/longest-common-prefix/](#)              | [https://github.com/silahpapa/leetcode-challenges/tree/main/week3/day-4](#)                                            |
-| 19  | 6th Jan 2024       | [https://leetcode.com/problems/merge-two-sorted-lists/](#)               | [https://github.com/silahpapa/leetcode-challenges/tree/main/week3/day-4](#)                                            |
+| 13  | 31th December 2023 | [problem link](#)                                                                                    | [solution link](#)                                    |
+| 14  | 1th Jan 2024       | [https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/](#)                                                                                            | [https://github.com/silahpapa/leetcode-challenges/tree/main/week2/day-6](#)                                             |
+| 15  | 2th Jan 2024       | [https://leetcode.com/problems/climbing-stairs/](#)                                                                                            | [https://github.com/silahpapa/leetcode-challenges/tree/main/week2/day-7](#)                                             |
+| 16  | 3th Jan 2024       | [https://leetcode.com/problems/longest-palindromic-subsequence/submissions/1135404626/](#)           | [ https://github.com/silahpapa/leetcode-challenges/tree/main/week3/day-1](#)                                        |
+| 17  | 4th Jan 2024       | [https://leetcode.com/problems/plus-one/](#)              | [https://github.com/silahpapa/leetcode-challenges/tree/main/week3/day-3](#)                                         |
+| 18  | 5th Jan 2024       | [https://leetcode.com/problems/longest-common-prefix/](#)              | [https://github.com/silahpapa/leetcode-challenges/tree/main/week3/day-4](#)                                           |
+| 19  | 6th Jan 2024       | [https://leetcode.com/problems/merge-two-sorted-lists/](#)               | [https://github.com/silahpapa/leetcode-challenges/tree/main/week3/day-5](#)                                            |
 ## Conclusion
 At the end of this challenge, I hope to have significantly improved my problem-solving skills and become more proficient in algorithmic thinking.
