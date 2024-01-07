@@ -33,5 +33,6 @@ Each day's work will be stored in a separate folder named with the format `DayXX
 | 17  | 4th Jan 2024       | [https://leetcode.com/problems/plus-one/](#)              | [https://github.com/silahpapa/leetcode-challenges/tree/main/week3/day-3](#)                                         |
 | 18  | 5th Jan 2024       | [https://leetcode.com/problems/longest-common-prefix/](#)              | [https://github.com/silahpapa/leetcode-challenges/tree/main/week3/day-4](#)                                           |
 | 19  | 6th Jan 2024       | [https://leetcode.com/problems/merge-two-sorted-lists/](#)               | [https://github.com/silahpapa/leetcode-challenges/tree/main/week3/day-5](#)                                            |
+| 20  | 7th Jan 2024       | [https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/](#)               | [https://github.com/silahpapa/leetcode-challenges/tree/main/week3/day-6](#)                                            |
 ## Conclusion
 At the end of this challenge, I hope to have significantly improved my problem-solving skills and become more proficient in algorithmic thinking.
