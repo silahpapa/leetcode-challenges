@@ -39,6 +39,7 @@ Each day's work will be stored in a separate folder named with the format `DayXX
 | 20  | 10th Jan 2024      | [https://leetcode.com/problems/multiply-strings/](#)             | [https://github.com/silahpapa/leetcode-challenges](#)                                            |
 | 21  | 11th Jan 2024      | [https://leetcode.com/problems/valid-perfect-square/description/](#)             | [https://github.com/silahpapa/leetcode-challenges/tree/main/week4/day-3](#)                                            |
 | 22  | 12th Jan 2024      | [https://leetcode.com/problems/best-time-to-buy-and-sell-stock/](#)              | [https://github.com/silahpapa/leetcode-challenges/tree/main/week4/day-4](#)                                            |
-| 23  | 13th Jan 2024      | [https://leetcode.com/problems/single-number/description/](#)               | [https://github.com/silahpapa/leetcode-challenges/tree/main/week4/day-4](#)                                            |
+| 23  | 13th Jan 2024      | [https://leetcode.com/problems/single-number/description/](#)               | [https://github.com/silahpapa/leetcode-challenges/tree/main/week4/day-5](#)                                            |
+| 24  | 14th Jan 2024      | [https://leetcode.com/problems/merge-sorted-array/](#)               | [](#)                                            |
 ## Conclusion
 At the end of this challenge, I hope to have significantly improved my problem-solving skills and become more proficient in algorithmic thinking.
