@@ -43,6 +43,7 @@ Each day's work will be stored in a separate folder named with the format `DayXX
 | 24  | 14th Jan 2024      | [https://leetcode.com/problems/merge-sorted-array/](#)            | [https://github.com/silahpapa/leetcode-challenges/tree/main/week4/day-6](#)                                            |
 | 25  | 15th Jan 2024      | [https://leetcode.com/problems/3sum-closest/submissions/1146631089/](#)              | [https://github.com/silahpapa/leetcode-challenges/tree/main/week4/day-7](#)                                            |
 | 26  | 16th Jan 2024      | [https://leetcode.com/problems/majority-element/](#)              | [https://github.com/silahpapa/leetcode-challenges/tree/main/week5/day-1](#)                                            |
-| 27  | 17th Jan 2024      | [https://leetcode.com/problems/concatenation-of-array/](#)               | [](#)                                            |
+| 27  | 17th Jan 2024      | [https://leetcode.com/problems/concatenation-of-array/](#)               | [https://github.com/silahpapa/leetcode-challenges/tree/main/week5/day-2](#)                                            |
+| 28  | 18th Jan 2024      | [https://leetcode.com/problems/shuffle-the-array/submissions/1149418049/](#)               | [](#)                                            |
 ## Conclusion
 At the end of this challenge, I hope to have significantly improved my problem-solving skills and become more proficient in algorithmic thinking.
