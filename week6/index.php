@@ -26,3 +26,6 @@ class Solution {
     }
 }
 $solution = new Solution();
+echo "input: [1,2,3,1] <br>";
+echo "expected output: 4 <br>";
+echo "output: " . $solution->rob([1,2,3,1]) . "<br>";
