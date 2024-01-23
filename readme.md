@@ -47,6 +47,7 @@ Each day's work will be stored in a separate folder named with the format `DayXX
 | 28  | 19th Jan 2024      | [https://leetcode.com/problems/count-elements-with-maximum-frequency/](#)              | [https://github.com/silahpapa/leetcode-challenges/tree/main/week5/day-4](#)                                            |
 | 29  | 20th Jan 2024      | [https://leetcode.com/problems/create-target-array-in-the-given-order/submissions/1151229721/](#)              | [https://github.com/silahpapa/leetcode-challenges/tree/main/week5/day-5](#)                                            |
 | 30  | 21th Jan 2024      | [https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/description/](#)              | [https://github.com/silahpapa/leetcode-challenges/tree/main/week5/day-6](#)                                            |
-| 30  | 21th Jan 2024      | [https://leetcode.com/problems/maximum-product-subarray/submissions/1153374718/](#)               | [](#)                                            |
+| 31  | 22th Jan 2024      | [https://leetcode.com/problems/maximum-product-subarray/submissions/1153374718/](#)               | [](#)                                            |
+| 32  | 23th Jan 2024      | [https://leetcode.com/problems/house-robber/submissions/1154280832/](#)               | [https://github.com/silahpapa/leetcode-challenges/tree/main/week5/day-7](#)                                            |
 ## Conclusion
 At the end of this challenge, I hope to have significantly improved my problem-solving skills and become more proficient in algorithmic thinking.
