@@ -50,6 +50,6 @@ Each day's work will be stored in a separate folder named with the format `DayXX
 | 31  | 22th Jan 2024      | [https://leetcode.com/problems/maximum-product-subarray/submissions/1153374718/](#)              | [](#)                                            |
 | 32  | 23th Jan 2024      | [https://leetcode.com/problems/house-robber/submissions/1154280832/](#)              | [https://github.com/silahpapa/leetcode-challenges/tree/main/week5/day-7](#)                                            |
 | 33  | 24th Jan 2024      | [https://leetcode.com/problems/contains-duplicate/](#)               | [](#)                                            |
-| 33  | 24th Jan 2024      | [https://leetcode.com/problems/contains-duplicate/](#)               | [](#)                                            |
+| 33  | 24th Jan 2024      | [https://leetcode.com/problems/find-the-highest-altitude/description/](#)               | [](#)                                            |
 ## Conclusion
 At the end of this challenge, I hope to have significantly improved my problem-solving skills and become more proficient in algorithmic thinking.
