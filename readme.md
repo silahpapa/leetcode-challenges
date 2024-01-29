@@ -53,6 +53,7 @@ Each day's work will be stored in a separate folder named with the format `DayXX
 | 34  | 25th Jan 2024      | [https://leetcode.com/problems/find-the-highest-altitude/description/](#)                                                 | [https://github.com/silahpapa/leetcode-challenges/tree/main/week6/day-3](#)                                            |
 | 35  | 26th Jan 2024      | [https://leetcode.com/problems/first-missing-positive/](#)                                                                | [https://github.com/silahpapa/leetcode-challenges/tree/main/week6/day-4](#)                                            |
 | 36  | 27th Jan 2024      | [https://leetcode.com/problems/minimum-path-sum/submissions/1158279676/](#)                                               | [https://github.com/silahpapa/leetcode-challenges/tree/main/week6/day-5](#)                                            |
-| 37  | 28th Jan 2024      | [https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/submissions/1159471417/](#)                                               | [](#)                                            |
+| 37  | 28th Jan 2024      | [https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/submissions/1159471417/](#)                       | [https://github.com/silahpapa/leetcode-challenges/tree/main/week6/day-6](#)                                            |
+| 38  | 29th Jan 2024      | [https://leetcode.com/problems/truncate-sentence/](#)                                                                     | [](#)              |
 ## Conclusion
 At the end of this challenge, I hope to have significantly improved my problem-solving skills and become more proficient in algorithmic thinking.
