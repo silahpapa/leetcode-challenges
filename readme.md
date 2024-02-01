@@ -55,8 +55,8 @@ Each day's work will be stored in a separate folder named with the format `DayXX
 | 36  | 27th Jan 2024      | [https://leetcode.com/problems/minimum-path-sum/submissions/1158279676/](#)                                               | [https://github.com/silahpapa/leetcode-challenges/tree/main/week6/day-5](#)                                            |
 | 37  | 28th Jan 2024      | [https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/submissions/1159471417/](#)                       | [https://github.com/silahpapa/leetcode-challenges/tree/main/week6/day-6](#)                                            |
 | 38  | 29th Jan 2024      | [https://leetcode.com/problems/truncate-sentence/](#)                                                                     | [https://github.com/silahpapa/leetcode-challenges/tree/main/week6/day-7](#)              |
-| 39  | 30th Jan 2024      | [https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/](#)                                                                     | [https://github.com/silahpapa/leetcode-challenges/tree/main/week6/day-7](#)              |
-| 40  | 31th Jan 2024      | [https://leetcode.com/problems/max-consecutive-ones/submissions/1162317088/](#)                                                                     | [](#)              |
-| 40  | 31th Jan 2024      | [https://leetcode.com/problems/pascals-triangle-ii//](#)                                                                     | [](#)              |
+| 39  | 30th Jan 2024      | [https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/](#)                                            | [https://github.com/silahpapa/leetcode-challenges/tree/main/week6/day-7](#)              |
+| 40  | 31th Jan 2024      | [https://leetcode.com/problems/max-consecutive-ones/submissions/1162317088/](#)                                           | [](#)              |
+| 41  | 1 feb 2024         | [https://leetcode.com/problems/pascals-triangle-ii//](#)                                                                  | [](#)              |
 ## Conclusion
 At the end of this challenge, I hope to have significantly improved my problem-solving skills and become more proficient in algorithmic thinking.
