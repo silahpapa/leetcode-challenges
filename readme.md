@@ -26,7 +26,6 @@ Each day's work will be stored in a separate folder named with the format `DayXX
 | 10  | 28th December 2023 | [https://leetcode.com/problems/restore-ip-addresses/](#)                                                                 | [https://github.com/silahpapa/leetcode-challenges/tree/main/week2/day-3](#) |
 | 11  | 29th December 2023 | [https://leetcode.com/problems/burst-balloons/description/](#)                                                           | [https://github.com/silahpapa/leetcode-challenges/tree/main/week2/day-4](#) |
 | 12  | 30th December 2023 | [https://leetcode.com/problems/reverse-integer/](#)                                                                      | [https://github.com/silahpapa/leetcode-challenges/tree/main/week2/day-5](#) |
-| 13  | 31th December 2023 | [problem link](#)                                                                                                        | [solution link](#)                                    |
 | 14  | 1th Jan 2024       | [https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/](#)                              | [https://github.com/silahpapa/leetcode-challenges/tree/main/week2/day-6](#)                                             |
 | 15  | 2th Jan 2024       | [https://leetcode.com/problems/climbing-stairs/](#)                                                                      | [https://github.com/silahpapa/leetcode-challenges/tree/main/week2/day-7](#)                                             |
 | 16  | 3th Jan 2024       | [https://leetcode.com/problems/longest-palindromic-subsequence/submissions/1135404626/](#)                               | [ https://github.com/silahpapa/leetcode-challenges/tree/main/week3/day-1](#)                                        |
@@ -58,6 +57,7 @@ Each day's work will be stored in a separate folder named with the format `DayXX
 | 39  | 30th Jan 2024      | [https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/](#)                                           | [https://github.com/silahpapa/leetcode-challenges/tree/main/week6/day-7](#)              |
 | 40  | 31th Jan 2024      | [https://leetcode.com/problems/max-consecutive-ones/submissions/1162317088/](#)                                          | [https://github.com/silahpapa/leetcode-challenges/tree/main/week7/day-1](#)              |
 | 41  | 1 feb 2024         | [https://leetcode.com/problems/pascals-triangle-ii/](#)                                                                  | [https://github.com/silahpapa/leetcode-challenges/tree/main/week7/day-2](#)              |
-| 42  | 2 feb 2024         | [https://leetcode.com/problems/assign-cookies/](#)                                                                  | [](#)              |
+| 42  | 2 feb 2024         | [https://leetcode.com/problems/assign-cookies/](#)                                                                  | [https://github.com/silahpapa/leetcode-challenges/tree/main/week7/day-3](#)              |
+| 43  | 4 feb 2024         | [https://leetcode.com/problems/lucky-numbers-in-a-matrix/](#)                                                                 [](#)              |
 ## Conclusion
 At the end of this challenge, I hope to have significantly improved my problem-solving skills and become more proficient in algorithmic thinking.
