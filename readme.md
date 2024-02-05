@@ -59,5 +59,6 @@ Each day's work will be stored in a separate folder named with the format `DayXX
 | 41  | 1 feb 2024         | [https://leetcode.com/problems/pascals-triangle-ii/](#)                                                                  | [https://github.com/silahpapa/leetcode-challenges/tree/main/week7/day-2](#)              |
 | 42  | 2 feb 2024         | [https://leetcode.com/problems/assign-cookies/](#)                                                                  | [https://github.com/silahpapa/leetcode-challenges/tree/main/week7/day-3](#)              |
 | 43  | 4 feb 2024         | [https://leetcode.com/problems/lucky-numbers-in-a-matrix/](#)                                                                 [](#)              |
+| 44  | 5 feb 2024         | [https://leetcode.com/problems/shuffle-string/submissions/1167188369/](#)                                                                 [](#)              |
 ## Conclusion
 At the end of this challenge, I hope to have significantly improved my problem-solving skills and become more proficient in algorithmic thinking.
