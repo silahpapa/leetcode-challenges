@@ -64,6 +64,7 @@ Each day's work will be stored in a separate folder named with the format `DayXX
 | 45  | 7 feb 2024         | [https://leetcode.com/problems/richest-customer-wealth/](#)                                                               | [](#) |
 | 46  | 8 feb 2024         | [https://leetcode.com/problems/third-maximum-number/submissions/1171278816/](#)                                           | [](#) |
 | 47  | 9 feb 2024         | https://leetcode.com/problems/remove-element/](#)                                                                         | [](#) |
-| 50  | 10 feb 2024        | [https://leetcode.com/problems/missing-number/](#)                                                                        | [](#) |
+| 48  | 10 feb 2024        | [https://leetcode.com/problems/missing-number/](#)                                                                        | [](#) |
+| 49  | 10 feb 2024        | [https://leetcode.com/problems/move-zeroes/submissions/1180177065/](#)                                                                        | [](#) |
 ## Conclusion
 At the end of this challenge, I hope to have significantly improved my problem-solving skills and become more proficient in algorithmic thinking.
