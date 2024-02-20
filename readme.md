@@ -60,11 +60,11 @@ Each day's work will be stored in a separate folder named with the format `DayXX
 | 42  | 2 feb 2024         | [https://leetcode.com/problems/assign-cookies/](#)                                                                        | [https://github.com/silahpapa/leetcode-challenges/tree/main/week7/day-3](#)           |
 | 43  | 4 feb 2024         | [https://leetcode.com/problems/lucky-numbers-in-a-matrix/](#)                                                             |  [https://github.com/silahpapa/leetcode-challenges/tree/main/week7/day-4](#)          |
 | 44  | 5 feb 2024         | [https://leetcode.com/problems/shuffle-string/submissions/1167188369/](#)                                                 |  [https://github.com/silahpapa/leetcode-challenges/tree/main/week7/day-5](#) |
-| 44  | 6 feb 2024         | [https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/](#)                                              | [https://github.com/silahpapa/leetcode-challenges/tree/main/week7/day-6](#) |
-| 45  | 7 feb 2024         | [https://leetcode.com/problems/richest-customer-wealth/](#)                                                               | [](#) |
-| 46  | 8 feb 2024         | [https://leetcode.com/problems/third-maximum-number/submissions/1171278816/](#)                                           | [](#) |
-| 47  | 9 feb 2024         | https://leetcode.com/problems/remove-element/](#)                                                                         | [](#) |
-| 48  | 10 feb 2024        | [https://leetcode.com/problems/missing-number/](#)                                                                        | [](#) |
-| 49  | 10 feb 2024        | [https://leetcode.com/problems/move-zeroes/submissions/1180177065/](#)                                                                        | [](#) |
+| 44  | 10 feb 2024        | [https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/](#)                                              | [https://github.com/silahpapa/leetcode-challenges/tree/main/week7/day-6](#) |
+| 45  | 11 feb 2024        | [https://leetcode.com/problems/richest-customer-wealth/](#)                                                               | [https://github.com/silahpapa/leetcode-challenges/tree/main/week8/day-2](#) |
+| 46  | 12 feb 2024        | [https://leetcode.com/problems/third-maximum-number/submissions/1171278816/](#)                                           | [https://github.com/silahpapa/leetcode-challenges/tree/main/week8/day-4](#) |
+| 47  | 13 feb 2024        | https://leetcode.com/problems/remove-element/](#)                                                                         | [https://github.com/silahpapa/leetcode-challenges/tree/main/week8/day-5](#) |
+| 48  | 19 feb 2024        | [https://leetcode.com/problems/missing-number/](#)                                                                        | [https://github.com/silahpapa/leetcode-challenges/tree/main/week8/day-6](#) |
+| 49  | 20 feb 2024        | [https://leetcode.com/problems/move-zeroes/submissions/1180177065/](#)                                                                        | [](#) |
 ## Conclusion
 At the end of this challenge, I hope to have significantly improved my problem-solving skills and become more proficient in algorithmic thinking.
