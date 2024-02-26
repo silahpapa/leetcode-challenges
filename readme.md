@@ -68,6 +68,7 @@ Each day's work will be stored in a separate folder named with the format `DayXX
 | 49  | 20 feb 2024        | [https://leetcode.com/problems/move-zeroes/submissions/1180177065/](#)                                                    | [https://github.com/silahpapa/leetcode-challenges/tree/main/week8/day-7](#) |
 | 50  | 21 feb 2024        | [https://leetcode.com/problems/edit-distance/](#)                                                                         | [https://github.com/silahpapa/leetcode-challenges/tree/main/week9/day-1](#) |
 | 51  | 22 feb 2024        | [https://leetcode.com/problems/valid-sudoku/description/](#)                                                              | [https://github.com/silahpapa/leetcode-challenges/tree/main/week9/day-2](#) |
-| 52  | 23 feb 2024        | [](#)                                                                                                                     | [https://leetcode.com/problems/set-matrix-zeroes/](#) |
+| 52  | 23 feb 2024        | [https://leetcode.com/problems/set-matrix-zeroes/](#)                                                                                                                     | [](#) |
+| 53  | 24 feb 2024        | [](#)                                                                                                                     | [](#) |
 ## Conclusion
 At the end of this challenge, I hope to have significantly improved my problem-solving skills and become more proficient in algorithmic thinking.
