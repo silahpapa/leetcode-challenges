@@ -71,5 +71,6 @@ Each day's work will be stored in a separate folder named with the format `DayXX
 | 52  | 23 feb 2024        | [https://leetcode.com/problems/set-matrix-zeroes/](#)                                                                     | [https://github.com/silahpapa/leetcode-challenges/tree/main/week9/day-3](#) |
 | 53  | 26 feb 2024        | [https://leetcode.com/problems/word-ladder/](#)                                                                           | [https://github.com/silahpapa/leetcode-challenges/tree/main/week9/day-4](#) |
 | 53  | 27 feb 2024        | [https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/](#)                                        | [](#) |
+| 54  | 28 feb 2024        | [https://leetcode.com/problems/roman-to-integer/description/](#)                                        | [](#) |
 ## Conclusion
 At the end of this challenge, I hope to have significantly improved my problem-solving skills and become more proficient in algorithmic thinking.
