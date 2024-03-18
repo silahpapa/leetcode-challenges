@@ -82,6 +82,7 @@ Each day's work will be stored in a separate folder named with the format `DayXX
 | 62  | 11 march 2024      | [https://leetcode.com/problems/reverse-string/](#)                      | [https://github.com/silahpapa/leetcode-challenges/tree/main/week11/day-1](#)    |
 | 62  | 14 march 2024      | [https://leetcode.com/problems/valid-anagram/description/](#)             | [https://github.com/silahpapa/leetcode-challenges/tree/main/week11/day-3](#)    |
 | 63  | 15 march 2024      | [https://leetcode.com/problems/excel-sheet-column-number/description/](#)             | [https://github.com/silahpapa/leetcode-challenges/tree/main/week11/day-4](#)    |
-| 63  | 15 march 2024      | [https://leetcode.com/problems/isomorphic-strings/](#)            | [https://github.com/silahpapa/leetcode-challenges/tree/main/week11/day-5](#)    |
+| 64  | 17 march 2024      | [https://leetcode.com/problems/isomorphic-strings/](#)            | [https://github.com/silahpapa/leetcode-challenges/tree/main/week11/day-6](#)    |
+| 65  | 18 march 2024      | [https://leetcode.com/problems/count-and-say/description/](#)            | [https://github.com/silahpapa/leetcode-challenges/tree/main/week11/day-7](#)    |
 ## Conclusion
 At the end of this challenge, I hope to have significantly improved my problem-solving skills and become more proficient in algorithmic thinking.
