@@ -87,5 +87,6 @@ Each day's work will be stored in a separate folder named with the format `DayXX
 | 66  | 19 march 2024      | [https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/](#)                     | [https://github.com/silahpapa/leetcode-challenges/tree/main/week12/day-1](#)    |
 | 67  | 20 march 2024      | [https://leetcode.com/problems/minimum-moves-to-convert-string/description/](#)                     | [https://github.com/silahpapa/leetcode-challenges/tree/main/week12/day-2](#)    |
 | 68  | 21 march 2024      | [https://leetcode.com/problems/group-anagrams/submissions/1210335883/](#)                       | [https://github.com/silahpapa/leetcode-challenges/tree/main/week12/day-3](#)    |
+| 69  | 22 march 2024      | [https://leetcode.com/problems/wildcard-matching/description/](#)                       | [https://github.com/silahpapa/leetcode-challenges/tree/main/week12/day-4](#)    |
 ## Conclusion
 At the end of this challenge, I hope to have significantly improved my problem-solving skills and become more proficient in algorithmic thinking.
